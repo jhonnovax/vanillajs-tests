@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "vite build"
+  },
+  "dependencies": {
+    "froala-editor": "^4.1.4",
+    "js-module-formats": "^0.1.2"
+  },
+  "devDependencies": {
+    "vite": "^5.1.3"
+  }
+}
